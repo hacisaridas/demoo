@@ -6,6 +6,7 @@
 					<content>
 					    <Link xmlns="sap.m" href="https://ui5.sap.com" text="Link Text" id="link0"/>
 					    <Button xmlns="sap.m" text="Button" id="button0"/>
+					    <Button xmlns="sap.m" text="Button" id="button0"/>
 					</content>
 				</Page>
 			</pages>
